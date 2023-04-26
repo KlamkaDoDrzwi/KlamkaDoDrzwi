@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @KlamkaDoDrzwi
-- 👀 I’m interested in Java, C++
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on IDK
-- 📫 How to reach me Be nice
+jajo
 
 <!---
 KlamkaDoDrzwi/KlamkaDoDrzwi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
